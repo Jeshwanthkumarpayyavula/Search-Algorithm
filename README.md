@@ -126,13 +126,13 @@ else:
 
 ```
 ## Sample Input and Output
-i.
+i.Use a linear Search method to match the item in a list
 ![image](https://github.com/Jeshwanthkumar07/Search-Algorithm/assets/142886483/82817b5d-6d5b-4d63-9da5-d1576798e3a4)
 
-ii.
+ii.Find the element in a list using Binarysearch(Iterative Method)
 ![image](https://github.com/Jeshwanthkumar07/Search-Algorithm/assets/142886483/a45205f2-e112-494c-9a7e-0a44e6becde4)
 
-iii.
+iii.Find the element in a list using BinarySearch (recursive Method)
 ![image](https://github.com/Jeshwanthkumar07/Search-Algorithm/assets/142886483/40b499b7-01d6-4678-9835-bf3b7ea470bf)
 
 
