@@ -125,26 +125,15 @@ else:
 
 
 ```
-## Sample Input and Output
+## Output
 i.Use a linear Search method to match the item in a list
-![image](https://github.com/Jeshwanthkumarpayyavula/Search-Algorithm/assets/145742402/c36dcdaa-d0c3-4293-b9b7-a8a6eb5c61d9)
-
+![image](https://github.com/Jeshwanthkumarpayyavula/Search-Algorithm/assets/145742402/bc440ce5-8f54-48f3-a8ac-0467ee2ec188)
 
 ii.Find the element in a list using Binarysearch(Iterative Method)
-![image](https://github.com/Jeshwanthkumarpayyavula/Search-Algorithm/assets/145742402/30535c16-7bde-44fe-b05c-367cf7657d34)
-
+![image](https://github.com/Jeshwanthkumarpayyavula/Search-Algorithm/assets/145742402/8807f4c9-f761-4c60-a116-9a76fa2fbcab)
 
 iii.Find the element in a list using BinarySearch (recursive Method)
-![image](https://github.com/Jeshwanthkumarpayyavula/Search-Algorithm/assets/145742402/1b4836f5-0cf0-4d66-b9e6-5068a6e12e91)
-
-
-
-
-
-
-
-
-
+![image](https://github.com/Jeshwanthkumarpayyavula/Search-Algorithm/assets/145742402/e27f4f82-df34-419b-93d2-6512190d7d6f)
 
 ## Result
 Thus the linear search and binary search algorithm is implemented using python programming.
