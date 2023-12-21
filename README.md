@@ -127,7 +127,7 @@ else:
 ```
 ## Sample Input and Output
 i.Use a linear Search method to match the item in a list
-![image](https://github.com/Jeshwanthkumarpayyavula/Search-Algorithm/assets/145742402/13ccc0cf-2073-4673-aa2b-036f70a8fe8d)
+![image](https://github.com/Jeshwanthkumarpayyavula/Search-Algorithm/assets/145742402/c36dcdaa-d0c3-4293-b9b7-a8a6eb5c61d9)
 
 
 ii.Find the element in a list using Binarysearch(Iterative Method)
